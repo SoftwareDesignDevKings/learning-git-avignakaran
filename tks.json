@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"stroke": "10"},
+      "properties": {"stroke": "10", "title": "Something in The Kings School"},
       "geometry": {
         "coordinates": [
           [
